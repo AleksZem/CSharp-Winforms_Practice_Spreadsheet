@@ -16,7 +16,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
-using CptS321;
+using SpreadSheet;
 
 namespace Spreadsheet
 {

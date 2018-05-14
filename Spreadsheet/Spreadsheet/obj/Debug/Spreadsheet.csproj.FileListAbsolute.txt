@@ -11,3 +11,15 @@ C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spre
 C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetEngine.pdb
 C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.exe
 C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.pdb
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.exe
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.pdb
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.exe.config
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.exe
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.pdb
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetEngine.dll
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetEngine.pdb
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csprojResolveAssemblyReference.cache
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.Form1.resources
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.Properties.Resources.resources
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csproj.GenerateResource.Cache
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csproj.CoreCompileInputs.cache

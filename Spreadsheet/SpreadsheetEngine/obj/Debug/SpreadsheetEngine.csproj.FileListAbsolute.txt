@@ -4,3 +4,8 @@ C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spre
 C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
 C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb
 C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csprojResolveAssemblyReference.cache
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.dll
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\SpreadsheetEngine\bin\Debug\SpreadsheetEngine.pdb
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.dll
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\SpreadsheetEngine\obj\Debug\SpreadsheetEngine.pdb

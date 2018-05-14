@@ -14,7 +14,7 @@ using System.Threading.Tasks;
 using System.ComponentModel;
 using System.Text.RegularExpressions;
 
-namespace CptS321
+namespace SpreadSheet
 {
     public abstract class AbstractCell : INotifyPropertyChanged
     {

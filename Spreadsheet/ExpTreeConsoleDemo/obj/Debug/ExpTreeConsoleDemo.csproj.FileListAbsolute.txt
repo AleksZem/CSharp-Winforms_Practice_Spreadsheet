@@ -7,3 +7,12 @@ C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\ExpT
 C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\ExpTreeConsoleDemo\obj\Debug\ExpTreeConsoleDemo.csproj.CoreCompileInputs.cache
 C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\ExpTreeConsoleDemo\obj\Debug\ExpTreeConsoleDemo.exe
 C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\ExpTreeConsoleDemo\obj\Debug\ExpTreeConsoleDemo.pdb
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\ExpTreeConsoleDemo\bin\Debug\ExpTreeConsoleDemo.exe.config
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\ExpTreeConsoleDemo\bin\Debug\ExpTreeConsoleDemo.exe
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\ExpTreeConsoleDemo\bin\Debug\ExpTreeConsoleDemo.pdb
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\ExpTreeConsoleDemo\bin\Debug\SpreadsheetEngine.dll
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\ExpTreeConsoleDemo\bin\Debug\SpreadsheetEngine.pdb
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\ExpTreeConsoleDemo\obj\Debug\ExpTreeConsoleDemo.csprojResolveAssemblyReference.cache
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\ExpTreeConsoleDemo\obj\Debug\ExpTreeConsoleDemo.csproj.CoreCompileInputs.cache
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\ExpTreeConsoleDemo\obj\Debug\ExpTreeConsoleDemo.exe
+D:\dev\C--Winforms_Practice_Spreadsheet\Spreadsheet\ExpTreeConsoleDemo\obj\Debug\ExpTreeConsoleDemo.pdb
