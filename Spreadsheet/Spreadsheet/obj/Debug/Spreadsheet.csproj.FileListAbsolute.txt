@@ -1,0 +1,13 @@
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csprojResolveAssemblyReference.cache
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.AboutForm.resources
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.Form1.resources
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.Properties.Resources.resources
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csproj.GenerateResource.Cache
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.exe.config
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.exe
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\bin\Debug\Spreadsheet.pdb
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.exe
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\Spreadsheet\obj\Debug\Spreadsheet.pdb

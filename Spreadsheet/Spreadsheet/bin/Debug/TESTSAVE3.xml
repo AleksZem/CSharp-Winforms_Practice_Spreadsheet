@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Spreadsheet sizeX="26" sizeY="50">
+  <Cell x="0" y="0" text="3432" />
+  <Cell x="1" y="0" text="5102" />
+  <Cell x="2" y="0" text="=A1+B1">
+    <Dependencies>
+      <Cell x="0" y="0" />
+      <Cell x="1" y="0" />
+      <Cell x="0" y="0" />
+      <Cell x="1" y="0" />
+    </Dependencies>
+  </Cell>
+</Spreadsheet>

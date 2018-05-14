@@ -1,0 +1,9 @@
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\ExpTreeConsoleDemo\bin\Debug\ExpTreeConsoleDemo.exe.config
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\ExpTreeConsoleDemo\bin\Debug\ExpTreeConsoleDemo.exe
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\ExpTreeConsoleDemo\bin\Debug\ExpTreeConsoleDemo.pdb
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\ExpTreeConsoleDemo\bin\Debug\SpreadsheetEngine.dll
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\ExpTreeConsoleDemo\bin\Debug\SpreadsheetEngine.pdb
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\ExpTreeConsoleDemo\obj\Debug\ExpTreeConsoleDemo.csprojResolveAssemblyReference.cache
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\ExpTreeConsoleDemo\obj\Debug\ExpTreeConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\ExpTreeConsoleDemo\obj\Debug\ExpTreeConsoleDemo.exe
+C:\Users\Aleks\Desktop\WSU\SPRING2018\CS321\repo\cs321-azemlyan\Spreadsheet\ExpTreeConsoleDemo\obj\Debug\ExpTreeConsoleDemo.pdb
